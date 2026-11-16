@@ -1,4 +1,4 @@
-# 🧹 AppPrune (find-unused-apps)
+# 🧹 stale-apps-finder-popos (find-unused-apps)
 
 > **Intelligent application usage auditor & bloat finder for Linux (APT, Flatpak, COSMIC, GNOME).**  
 > Identifies abandoned, never-used, and duplicate applications to safely reclaim gigabytes of disk space.
